@@ -4,6 +4,10 @@ Setup Spout from http://spout.zeal.co/
 Usage:
 Drag-n-drop glsl shader files from your file system (lots of examples on https://www.shadertoy.com/) or edit mixes.xml
 
+Keyboard shortcuts
+n key creates a new warp (or type warpcreate in the console)
+w key is to modify the warps
+ctrl-r creates a render window (needs windows desktop in extended mode)
 
 Videodromm developers:
 Bruce Lane: project initiator (2013)
