@@ -50,6 +50,7 @@ Source: "0.frag"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "AnyArrayIndex.glsl"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "AudioReaktive.glsl"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "animation.json"; DestDir: "{app}\assets"; Flags: ignoreversion;
+Source: "help.jpg"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "mixes.xml"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "mixfbo.frag"; DestDir: "{app}\assets"; Flags: ignoreversion;
 Source: "passthru.vert"; DestDir: "{app}\assets"; Flags: ignoreversion;
