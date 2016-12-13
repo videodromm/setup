@@ -1,0 +1,50 @@
+{
+   "assets" : {
+      "moviefile" : "none.mov",
+      "movieplaybackdelay" : 14,
+      "wavefile" : "none.wav",
+      "waveplaybackdelay" : 17
+   },
+   "settings" : {
+      "beatsperbar" : 1,
+      "bpm" : 166,
+      "endframe" : 798,
+      "fadeindelay" : 30,
+      "fadeoutdelay" : 15
+   },
+   "warp0" : {
+      "afboindex" : 3,
+      "ashaderindex" : 2,
+      "bfboindex" : 2,
+      "bshaderindex" : 3,
+      "name" : "",
+      "xfade" : 1
+   },
+   "warp1" : {
+      "afboindex" : 5,
+      "ashaderindex" : 4,
+      "bfboindex" : 0,
+      "bshaderindex" : 5,
+      "name" : "",
+      "xfade" : 0.57480317354202271
+   },
+   "warp2" : {
+      "afboindex" : 7,
+      "ashaderindex" : 6,
+      "bfboindex" : 0,
+      "bshaderindex" : 7,
+      "name" : "",
+      "xfade" : 0.57480317354202271
+   },
+   "warp3" : {
+      "afboindex" : 0,
+      "ashaderindex" : 8,
+      "bfboindex" : 1,
+      "bshaderindex" : 9,
+      "name" : "",
+      "xfade" : 0.57480317354202271
+   },
+   "warps" : {
+      "size" : 4
+   }
+}

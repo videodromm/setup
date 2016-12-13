@@ -1,0 +1,132 @@
+{
+   "warps" : [
+      {
+         "adaptive" : true,
+         "id" : 1,
+         "linear" : false,
+         "resolution" : 16,
+         "warp" : {
+            "afboindex" : 3,
+            "ashaderfilename" : "DanceWalker1.glsl",
+            "ashaderindex" : 2,
+            "bfboindex" : 2,
+            "brightness" : 1,
+            "bshaderfilename" : "Test.glsl",
+            "bshaderindex" : 3,
+            "controlpoints" : [
+               {
+                  "controlpoint" : 0,
+                  "x" : 0,
+                  "y" : 0
+               },
+               {
+                  "controlpoint" : 1,
+                  "x" : 0,
+                  "y" : 1
+               },
+               {
+                  "controlpoint" : 2,
+                  "x" : 1,
+                  "y" : 0
+               },
+               {
+                  "controlpoint" : 3,
+                  "x" : 1,
+                  "y" : 1
+               }
+            ],
+            "corners" : [
+               {
+                  "corner" : 0,
+                  "x" : 0.62195122241973877,
+                  "y" : 0.067073173820972443
+               },
+               {
+                  "corner" : 1,
+                  "x" : 0.74268293380737305,
+                  "y" : 0.069512195885181427
+               },
+               {
+                  "corner" : 2,
+                  "x" : 0.78414636850357056,
+                  "y" : 0.18658536672592163
+               },
+               {
+                  "corner" : 3,
+                  "x" : 0.62560975551605225,
+                  "y" : 0.14512194693088531
+               }
+            ],
+            "crossfade" : 1,
+            "height" : 2,
+            "method" : "perspectivebilinear",
+            "mixfboindex" : 0,
+            "width" : 2
+         }
+      },
+      {
+         "adaptive" : true,
+         "id" : 2,
+         "linear" : false,
+         "resolution" : 16,
+         "warp" : {
+            "afboindex" : 5,
+            "ashaderfilename" : "DeskFirstShader.glsl",
+            "ashaderindex" : 4,
+            "bfboindex" : 0,
+            "brightness" : 1,
+            "bshaderfilename" : "DistanceFieldCubes.glsl",
+            "bshaderindex" : 5,
+            "controlpoints" : [
+               {
+                  "controlpoint" : 0,
+                  "x" : 0,
+                  "y" : 0
+               },
+               {
+                  "controlpoint" : 1,
+                  "x" : 0,
+                  "y" : 1
+               },
+               {
+                  "controlpoint" : 2,
+                  "x" : 1,
+                  "y" : 0
+               },
+               {
+                  "controlpoint" : 3,
+                  "x" : 1,
+                  "y" : 1
+               }
+            ],
+            "corners" : [
+               {
+                  "corner" : 0,
+                  "x" : 0.076829269528388977,
+                  "y" : 0.47926828265190125
+               },
+               {
+                  "corner" : 1,
+                  "x" : 0.44166666269302368,
+                  "y" : 0.78796297311782837
+               },
+               {
+                  "corner" : 2,
+                  "x" : 0.12031249701976776,
+                  "y" : 0.54166668653488159
+               },
+               {
+                  "corner" : 3,
+                  "x" : 0.10487804561853409,
+                  "y" : 0.59878051280975342
+               }
+            ],
+            "crossfade" : 0.57480317354202271,
+            "height" : 2,
+            "method" : "perspectivebilinear",
+            "mixfboindex" : 0,
+            "width" : 2
+         }
+      }
+   ]
+}
