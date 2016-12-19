@@ -2,7 +2,7 @@
 
 [Setup]
 AppName=Videodromm
-AppVersion=0.1
+AppVersion=0.1.20161219
 RestartIfNeededByRun=False
 ShowLanguageDialog=no
 LanguageDetectionMethod=none
